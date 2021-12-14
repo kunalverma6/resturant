@@ -1,0 +1,17 @@
+.main{
+    background-color: black;
+    
+}
+
+
+.form{
+    background-color: rgb(139, 247, 51);
+    text-align: center;
+    margin: 20%;
+    padding: 20%;
+    border-style: double;
+}
+.icon{
+    color: blue;
+    box-shadow: 1ch;
+}
